@@ -1,6 +1,6 @@
-# flutter_auth
+# Flutter-Application
 
-A new Flutter project.
+Cross-platform mobile application for EV drivers to find nearest charging station.
 
 ## Getting Started
 
